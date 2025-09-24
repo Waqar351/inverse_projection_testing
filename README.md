@@ -36,7 +36,7 @@ You’ll need:
    ```bash
    git clone https://github.com/Waqar351/inverse_projection_testing.git
    cd inverse_projection_testing
-````
+```
 
 2. Install dependencies using Poetry:
 
