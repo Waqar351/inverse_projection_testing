@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "projection-framework-testing"
+version = "0.1.0"
+description = ""
+authors = ["Waqar351 <waqar_comsat@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+notebook = "^7.4.5"
+ipykernel = "^6.30.1"
+projection-framework = {version = "0.1.0.dev5", allow-prereleases = true, source = "testpypi"}
+
+[[tool.poetry.source]]
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
