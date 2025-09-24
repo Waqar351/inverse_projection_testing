@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # Inverse Projection Testing
 
 This repository contains code and notebooks for the **Inverse Projection Framework** — analysis, visualization, and experiments. It includes data, results, and a primary Jupyter notebook to run the main projection analysis.
