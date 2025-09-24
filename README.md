@@ -97,5 +97,3 @@ jupyter notebook main_projection_analysis.ipynb
 * All generated outputs (plots, analysis results) will be saved in the `results/` folder.
 
 ---
-
-Do you want me to do that?
