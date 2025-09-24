@@ -42,7 +42,7 @@ You’ll need:
 
    ```bash
    poetry install
-   ```
+```
 ---
 
 ## How to Run the Notebook
